@@ -1,0 +1,25 @@
+﻿ 8:20:42 BattlEye server updated to version: 207
+ 8:20:42 BattlEye Server: Initialized (v1.207)
+ 8:20:42 Host identity created.
+ 8:21:35 BattlEye Server: Initialized (v1.207)
+ 8:21:35 Host identity created.
+ 8:21:56 Mateuus uses modified data file
+ 8:21:56 BattlEye Server: Player #0 Mateuus (143.137.89.112:26260) connected
+ 8:21:56 Player Mateuus connecting.
+ 8:21:56 Mission DayZ Overpoch Chernarus read from directory.
+ 8:21:57 Player Mateuus connected (id=76561198065694695).
+ 8:22:03 Roles assigned.
+ 8:22:03 Reading mission ...
+ 8:22:07 Picture img\load\loadingscreen.jpg not found
+ 8:23:37 Game started.
+ 8:27:41 BattlEye Server: Initialized (v1.207)
+ 8:27:41 Host identity created.
+ 8:31:17 Mateuus uses modified data file
+ 8:31:17 BattlEye Server: Player #0 Mateuus (143.137.89.112:26260) connected
+ 8:31:17 Player Mateuus connecting.
+ 8:31:18 Mission DayZ Overpoch Chernarus read from directory.
+ 8:31:19 Player Mateuus connected (id=76561198065694695).
+ 8:31:24 Roles assigned.
+ 8:31:24 Reading mission ...
+ 8:31:27 Mission read.
+ 8:32:21 Game started.
